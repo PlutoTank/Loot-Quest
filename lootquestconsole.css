@@ -1,0 +1,29 @@
+body {
+    font-family: Courier New;
+    background-color: #0C090A;
+}
+
+h1 {
+    font-size: 14pt;
+}
+
+input[type=pause] {
+    width: 10%;
+    background-color:#0C090A;
+    color: #0C090A;
+    border: 1px solid #0C090A;
+}
+
+input[type=pause]:focus {
+    width: 10%;
+    background-color:#0C090A;
+    color: #0C090A;
+    border: 1px solid #0C090A;
+}
+.gamer {
+    font-family: Lucida Console, Monaco;
+    background-color: #0C090A;
+    color: #00FF00;
+    display: block;
+    float: left;
+}
